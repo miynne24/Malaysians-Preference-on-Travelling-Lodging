@@ -1,0 +1,101 @@
+Age,Residential,EmploymentStatus,MaritalStatus,HouseholdCategory,OftenTravel,TravellingFor,YearlyTravel,StayDuration,PeopleDuringTravel,LodgingBudget,LodgingLocation,LodgingType
+23,Urban,Employed part-time,Married,M40,No,Holiday,1,3,6,450,City Centers,Hotels
+21,Urban,Student,Single,B40,No,Businesses,2,3,5,700,Nature,Airbnb
+25,Urban,Employed full-time,Single,B40,Yes,Holiday,1,3,4,100,Countryside,Hotels
+18,Rural,Student,Single,B40,No,Holiday,2,3,11,400,Countryside,Airbnb
+25,Rural,Employed full-time,Single,B40,No,Businesses,1,3,4,200,Countryside,Airbnb
+22,Urban,Student,Single,B40,No,Holiday,2,4,10,300,Nature,Airbnb
+30,Urban,Employed full-time,Single,M40,Yes,Both,7,2,5,500,Countryside,Hotels
+21,Rural,Student,Single,B40,No,Holiday,1,3,5,150,Nature,Airbnb
+25,Rural,Employed full-time,Married,B40,No,Holiday,1,2,5,300,Nature,Airbnb
+22,Rural,Student,Single,B40,Yes,Holiday,10,3,4,100,City Centers,Airbnb
+22,Urban,Student,Single,B40,No,Holiday,1,3,7,1000,Countryside,Airbnb
+21,Rural,Student,Single,B40,Yes,Holiday,3,3,7,400,Nature,Airbnb
+40,Urban,Self-employed,Married,M40,No,Both,3,6,3,600,Beachfront,Hotels
+22,Urban,Student,Single,B40,No,Holiday,1,1,1,300,Nature,Airbnb
+21,Urban,Student,Single,B40,Yes,Holiday,3,2,9,200,Nature,Airbnb
+23,Rural,Student,Single,B40,No,Holiday,2,2,7,400,Countryside,Airbnb
+29,Urban,Employed full-time,Married,M40,No,Businesses,3,3,4,450,Beachfront,Hotels
+22,Rural,Student,Single,B40,No,I don't travel,1,3,4,200,Nature,Airbnb
+22,Urban,Student,Single,B40,No,Holiday,3,3,10,200,Nature,Airbnb
+23,Urban,Employed full-time,Single,M40,No,Both,2,2,3,500,City Centers,Hotels
+31,Rural,Employed full-time,Widowed,M40,No,Both,4,3,4,700,Beachfront,Hotels
+28,Urban,Employed full-time,Single,B40,No,Holiday,1,2,2,300,Nature,Airbnb
+21,Urban,Student,Single,B40,No,Holiday,1,5,5,500,Beachfront,Airbnb
+20,Rural,Student,Single,B40,No,Holiday,1,2,5,400,Nature,Airbnb
+18,Urban,Student,Single,B40,No,I don't travel,0,3,8,200,Nature,Airbnb
+22,Urban,Student,Single,B40,No,Holiday,0,3,12,350,Countryside,Airbnb
+22,Urban,Student,Single,B40,Yes,Holiday,2,3,10,200,Nature,Airbnb
+29,Urban,Employed full-time,Married,B40,Yes,Holiday,2,3,10,400,Countryside,Airbnb
+18,Urban,Student,Single,B40,Yes,Holiday,3,5,8,300,Countryside,Airbnb
+25,Rural,Employed full-time,Married,M40,No,Both,2,3,5,600,City Centers,Hotels
+18,Urban,Student,Single,B40,No,Holiday,6,7,6,300,City Centers,Airbnb
+19,Rural,Student,Single,B40,Yes,Holiday,1,2,5,150,City Centers,Airbnb
+24,Urban,Student,Single,B40,No,Businesses,5,4,4,200,City Centers,Airbnb
+28,Urban,Employed full-time,Single,B40,Yes,Holiday,5,5,10,350,Beachfront,Airbnb
+26,Urban,Student,Single,B40,No,I don't travel,0,5,0,200,Beachfront,Airbnb
+38,Urban,Employed full-time,Married,T20,No,Holiday,6,3,4,600,City Centers,Hotels
+21,Rural,Student,Single,B40,Yes,Holiday,5,5,5,300,Countryside,Airbnb
+19,Rural,Student,Single,B40,No,Holiday,3,5,7,400,Countryside,Hotels
+24,Rural,Employed full-time,Single,B40,No,Holiday,4,4,10,300,Nature,Airbnb
+18,Urban,Student,Single,B40,No,Both,5,2,7,300,Nature,Airbnb
+21,Rural,Student,Single,B40,No,Holiday,2,4,6,500,Countryside,Airbnb
+20,Rural,Student,Single,B40,No,I don't travel,1,7,5,200,City Centers,Airbnb
+25,Urban,Employed full-time,Single,M40,No,Both,2,3,6,600,Beachfront,Hotels
+25,Urban,Employed full-time,Single,M40,No,Holiday,3,4,7,500,City Centers,Hotels
+28,Rural,Employed full-time,Single,B40,No,Holiday,3,3,4,300,Nature,Airbnb
+56,Rural,Employed full-time,Married,T20,Yes,Both,4,7,4,850,Beachfront,Hotels
+22,Rural,Student,Single,B40,No,Holiday,5,3,4,200,Beachfront,Airbnb
+24,Urban,Student,Single,B40,Yes,Holiday,4,3,2,200,City Centers,Airbnb
+23,Urban,Employed full-time,Single,M40,No,Businesses,2,4,4,800,City Centers,Hotels
+24,Urban,Student,Single,B40,No,Holiday,1,2,7,600,Nature,Airbnb
+28,Urban,Employed full-time,Single,M40,No,Both,4,2,3,1000,City Centers,Hotels
+38,Urban,Employed full-time,Single,M40,Yes,Holiday,4,5,3,700,Beachfront,Hotels
+18,Urban,Student,Single,B40,No,Holiday,2,4,6,300,Countryside,Airbnb
+19,Rural,Student,Single,B40,No,I don't travel,1,3,8,150,Nature,Airbnb
+20,Urban,Student,Single,B40,No,Holiday,3,3,9,400,Countryside,Airbnb
+38,Urban,Employed full-time,Married,M40,No,Businesses,1,2,6,500,Beachfront,Hotels
+22,Urban,Student,Single,B40,No,Holiday,3,3,4,200,Nature,Airbnb
+19,Rural,Student,Single,B40,No,Holiday,3,3,5,150,Nature,Airbnb
+39,Urban,Self-employed,Married,M40,No,Holiday,6,4,5,700,Beachfront,Hotels
+23,Rural,Student,Single,B40,No,Holiday,1,3,3,200,Countryside,Airbnb
+34,Urban,Employed full-time,Married,M40,No,Businesses,4,3,3,500,City Centers,Hotels
+40,Urban,Employed full-time,Single,M40,Yes,Businesses,9,4,3,650,City Centers,Hotels
+22,Rural,Student,Single,B40,No,Holiday,2,3,5,150,Nature,Airbnb
+39,Rural,Employed full-time,Single,M40,No,Holiday,1,7,5,750,Beachfront,Hotels
+39,Urban,Employed full-time,Married,M40,No,Holiday,3,3,4,600,Beachfront,Hotels
+18,Urban,Student,Single,B40,Yes,Holiday,3,3,5,250,Countryside,Airbnb
+18,Urban,Student,Single,M40,No,Holiday,1,4,4,900,Nature,Hotels
+33,Urban,Employed full-time,Single,M40,Yes,Holiday,5,3,3,650,City Centers,Hotels
+21,Urban,Student,Single,B40,No,Holiday,1,3,4,500,Nature,Airbnb
+24,Urban,Student,Single,M40,No,Holiday,3,2,5,550,Beachfront,Hotels
+36,Rural,Employed full-time,Single,B40,No,Businesses,1,2,5,200,Nature,Airbnb
+22,Urban,Student,Single,M40,Yes,Holiday,5,3,4,350,Nature,Airbnb
+22,Rural,Student,Single,B40,No,Holiday,2,3,5,300,Countryside,Airbnb
+24,Urban,Student,Single,T20,No,Holiday,1,3,4,350,Beachfront,Airbnb
+29,Urban,Employed full-time,Single,B40,No,Businesses,2,5,1,200,Countryside,Hotels
+20,Urban,Student,Single,M40,Yes,Holiday,4,3,9,450,Nature,Airbnb
+27,Urban,Employed full-time,Single,B40,No,Holiday,3,3,5,200,Nature,Airbnb
+25,Urban,Employed full-time,Married,B40,No,Both,3,4,4,900,Countryside,Hotels
+24,Rural,Student,Single,B40,Yes,Holiday,2,3,5,250,Nature,Airbnb
+25,Urban,Employed full-time,Married,T20,Yes,Holiday,3,3,3,850,City Centers,Hotels
+18,Urban,Student,Single,M40,Yes,Holiday,2,6,6,800,City Centers,Hotels
+28,Urban,Employed full-time,Single,B40,No,Holiday,1,3,7,300,Countryside,Airbnb
+23,Urban,Student,Single,B40,No,Holiday,3,3,8,400,Nature,Airbnb
+20,Urban,Employed full-time,Single,B40,Yes,Holiday,2,3,3,220,Nature,Airbnb
+40,Urban,Employed full-time,Married,M40,No,Both,3,3,5,600,Beachfront,Hotels
+22,Urban,Student,Single,M40,No,Holiday,1,8,4,600,Countryside,Hotels
+22,Rural,Student,Single,M40,No,Holiday,3,3,6,500,Countryside,Airbnb
+23,Rural,Student,Single,M40,Yes,Holiday,5,4,7,800,Beachfront,Hotels
+23,Urban,Employed full-time,Single,M40,No,Holiday,2,3,3,200,Nature,Airbnb
+19,Rural,Student,Single,B40,No,Holiday,2,3,4,450,Countryside,Airbnb
+28,Urban,Employed full-time,Single,B40,No,Holiday,1,3,2,300,Countryside,Airbnb
+22,Urban,Student,Single,M40,No,Holiday,3,5,6,500,City Centers,Hotels
+20,Rural,Student,Single,B40,No,Both,1,4,5,300,Nature,Airbnb
+21,Urban,Employed full-time,Single,B40,No,Holiday,1,3,7,400,Countryside,Airbnb
+22,Urban,Employed full-time,Married,M40,No,I don't travel,1,3,7,800,Beachfront,Hotels
+21,Urban,Student,Single,B40,Yes,Holiday,3,3,3,200,Nature,Airbnb
+19,Rural,Employed full-time,Married,B40,Yes,Holiday,2,3,6,500,Nature,Airbnb
+21,Urban,Student,Single,M40,Yes,Holiday,6,2,5,330,City Centers,Hotels
+38,Urban,Employed full-time,Single,M40,Yes,Both,5,7,5,850,Beachfront,Hotels
+22,Rural,Student,Single,B40,Yes,Holiday,3,2,8,150,Nature,Airbnb
